@@ -58,3 +58,30 @@ The client machine is unable to reach external websites or internal network reso
   ```bash
   ipconfig /release
   ipconfig /renew
+  Corrected DNS settings
+Verified connectivity to:
+Local network
+Default gateway
+External websites
+📸 Screenshots
+
+
+
+Output of ipconfig showing incorrect configuration
+Failed ping results
+DNS lookup failure
+Successful connectivity after resolution
+🛠️ Skills Demonstrated
+Network troubleshooting methodology
+TCP/IP configuration analysis
+DNS and DHCP troubleshooting
+Command-line diagnostic tools
+Identifying and resolving connectivity issues
+💡 What I Learned
+How to systematically isolate network issues
+The importance of verifying each layer of connectivity
+How DNS and DHCP misconfigurations impact user access
+🚀 Future Improvements
+Expand lab to include VLAN and subnetting scenarios
+Simulate firewall-related connectivity issues
+Automate diagnostics using PowerShell scripts
